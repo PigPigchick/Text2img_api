@@ -69,3 +69,4 @@ if __name__ == '__main__':
     print("通义万相：生图完毕！！！")
 
     #to_excel(prompts)
+    
