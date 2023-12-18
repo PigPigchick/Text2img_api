@@ -1,0 +1,2 @@
+# Text2img_api
+Implement calling for batch rendering of images in Tongsanyi Wanshang, Wenxin Yige, and Midjourney.
