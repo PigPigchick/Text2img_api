@@ -86,4 +86,3 @@ if __name__ == '__main__':
     Mid_response()
 
     print("Midjourney：生图完毕！！！")
-    
